@@ -1,0 +1,20 @@
+.b-title {
+    text-align: center;
+    font-size: 20px;
+}
+
+.b-desc {
+    text-align: center;
+    font-size: 16px;
+}
+
+.b-box {
+    display: flex;
+    justify-content: space-around;
+    &__people {
+        font-size: 14px;
+    }
+    &__price {
+        font-size: 14px;
+    }
+}

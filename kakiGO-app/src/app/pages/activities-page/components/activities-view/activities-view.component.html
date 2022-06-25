@@ -1,0 +1,12 @@
+<div class="b-container">
+    <div class="b-intro">
+        <h1 class="b-intro__title">ACTIVITIES</h1>
+        <h5 class="b-intro__text">For all tastes, for the whole family, couples, even groups of friends! You can come with whoever you want to do any activity we offer!</h5>
+    </div>
+    <section class="b-activities">
+        <article class="b-activities__art" *ngFor="let activity of activities">
+            <app-activities-main class="b-activities__text " [activity]="activity"></app-activities-main>
+        </article>
+    </section>
+
+</div>

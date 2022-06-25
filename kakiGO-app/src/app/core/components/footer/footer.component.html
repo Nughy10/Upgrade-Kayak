@@ -1,0 +1,11 @@
+<footer class="b-footer">
+    <div class="b-footer__containercopyright">
+        <p class="b-footer__copyright">{{footer.copyright}}</p>
+    </div>
+    <div class="b-footer__contrrss" *ngFor="let rrss of footer.rrss">
+        <a class="b-footer__link" href="{{rrss.link}}">
+            <img class="b-footer__icon" src="{{rrss.icon}}" alt="{{rrss.name}}">
+            <p class="b-footer__rrss">{{rrss.name}}</p>
+        </a>
+    </div>
+</footer>

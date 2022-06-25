@@ -1,0 +1,40 @@
+.b-container {
+    height: 100%;
+}
+
+.b-intro {
+    margin-bottom: 40px;
+    &__title {
+        text-align: center;
+    }
+    &__text {
+        text-align: center;
+        font-size: 16px;
+        margin: 0 20px;
+    }
+}
+
+.b-activities {
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4686087.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    &__art {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 20px auto;
+        width: 70%;
+        height: auto;
+        background-color: aliceblue;
+        border-radius: 10px;
+        padding: 20px;
+    }
+}
+
+@media (min-width: 768px) {
+    .b-activities__art {
+        width: 40%;
+    }
+}

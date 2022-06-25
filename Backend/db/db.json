@@ -1,0 +1,79 @@
+{
+    "home": {
+        "title": "KAKI GO",
+        "intro": "Before starting your adventure, choose your guide wisely...",
+        "description": "At Kaki Go we have achieved the balance of fun and safety so you can enjoy the river to the fullest! From finding the best spots to surf a wave, to a stop with a small picnic to rest and relax by the river. Discover us and come to make a trip down the Noguera Pallaresa river!"
+    },
+    "activities": [{
+            "name": "RAFTING Llavorsí - Sort",
+            "description": "A 15 km descent from the village of Llavorsí to Sort, with the most famous rapids of our river. Enjoy the stop with picnic, and take the videos we will make during the descent.",
+            "people": "2 - 8 people",
+            "price": "50€/person"
+        },
+        {
+            "name": "RAFTING Sort - Tremp",
+            "description": "Enjoy great views of the beautiful Pyrenees mountains while rafting down a quiet and relaxed part of the river.",
+            "people": "2 - 8 people",
+            "price": "70€/person"
+        },
+        {
+            "name": "RAFTING Llavorsí - Tremp",
+            "description": "Looking for a full day of adventure? Enjoy the long descent, from Llavorsí to the village of Tremp, with several stops along the way, including lunch at noon.",
+            "people": "2 - 8 people",
+            "price": "110€/person"
+        },
+        {
+            "name": "KAYAK Llavorsí - Sort",
+            "description": "Looking for more excitement? Dare to kayak down the rapids of the Noguera Pallaresa accompanied by the best guide! ",
+            "people": "2 - 5 people",
+            "price": "50€/person"
+        },
+        {
+            "name": "KAYAK Sort",
+            "description": "If you want to train during your vacations, you can do it with us! In Sort's slalom course, you will be able to enjoy yourself while you improve!",
+            "people": "2 - 5 people",
+            "price": "65€/person"
+        },
+        {
+            "name": "CANYONING Infern",
+            "description": "Do you like challenges? Try to complete the Infern canyon, while you have a great time enjoying the river in first person.",
+            "people": "2 - 5 people",
+            "price": "65€/person"
+        }
+    ],
+
+    "gallery": [{
+            "src": "https://i.ibb.co/MpXQyMr/1-1.jpg",
+            "alt": "photo-1"
+        },
+        {
+            "src": "https://i.ibb.co/JvnJVsg/46.jpg",
+            "alt": "photo-2"
+        },
+        {
+            "src": "https://i.ibb.co/BLfHcFs/DCIM-100-GOPRO.jpg",
+            "alt": "photo-3"
+        },
+        {
+            "src": "https://i.ibb.co/qJVZndn/140904-RFTRROI-0108.jpg",
+            "alt": "photo-4"
+        },
+        {
+            "src": "https://i.ibb.co/vqr3p0F/140904-RFTRROI-0116-1.jpg",
+            "alt": "photo-5"
+        },
+        {
+            "src": "https://i.ibb.co/Vt3qmYC/140904-RFTRROI-0121.jpg",
+            "alt": "photo-6"
+        },
+        {
+            "src": "https://i.ibb.co/vm4rPhF/DSC-5000.jpg",
+            "alt": "photo-7"
+        }
+    ],
+    "about": {
+        "title": "ABOUT US",
+        "description": "We are a small company that started 5 years ago. The founder and guide of the activities, Kaki, is a master of the river and the mountain, with a long experience and wisdom about the river Noguera Pallaresa, as well as many other rivers and countries he has traveled. His initiative is based on giving a unique and unrepeatable experience and making people enjoy the good weather, the river and nature.",
+        "outro": "Thank you very much for visiting our website, and we hope you venture to come and enjoy our activities soon. Do not hesitate to contact us through our social networks!"
+    }
+}

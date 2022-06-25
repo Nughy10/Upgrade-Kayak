@@ -1,0 +1,49 @@
+    .b-container {
+        height: 100%;
+    }
+    
+    .b-titlebox {
+        margin-bottom: 40px;
+        &__title {
+            text-align: center;
+        }
+    }
+    
+    .b-box {
+        padding: 20px;
+        &__cont {
+            padding: 15px;
+            height: auto;
+        }
+        &__p {
+            font-size: 20px;
+            text-align: justify;
+        }
+        &__span {
+            padding: 40px;
+            margin: 0px 100px;
+        }
+        &__h5 {
+            font-size: 24px;
+            text-align: center;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        .b-box {
+            &__span {
+                margin: 0px 30px;
+            }
+        }
+    }
+    
+    .b-contact {
+        background-image: url(https://www.pngitem.com/pimgs/m/102-1026439_green-leaves-png-free-image-transparent-background-leaves.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        &__box {
+            margin-left: 20%;
+            padding: 24px;
+
+        }
+    }
