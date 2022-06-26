@@ -3,15 +3,18 @@
     justify-content: space-around;
     align-content: center;
     box-shadow: 2px 2px gray;
-    position: sticky;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 50px;
+    background-color: lightslategrey;
     &__containercopyright {
         margin: 8px;
     }
     &__copyright {
         font-size: 14px;
+        color: black;
+        font-weight: bold;
     }
     &__contrrss {
         margin-top: 5px;
@@ -19,14 +22,17 @@
         justify-content: space-between;
         align-content: center;
     }
+
     &__icon {
         width: 18px;
-        height: auto;
+        height: auto; 
+        font-weight: bold;
     }
     &__rrss {
         font-size: 14px;
         margin-left: 10px;
-        color: #000000;
+        color: black;
+        font-weight: bold;
     }
     &__link {
         display: flex;

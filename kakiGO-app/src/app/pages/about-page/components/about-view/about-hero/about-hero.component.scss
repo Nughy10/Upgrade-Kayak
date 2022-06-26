@@ -8,9 +8,13 @@
             text-align: center;
         }
     }
+    .b-titlebox__title{
+        color: white; 
+    }
     
     .b-box {
         padding: 20px;
+        color: white; 
         &__cont {
             padding: 15px;
             height: auto;
@@ -26,6 +30,8 @@
         &__h5 {
             font-size: 24px;
             text-align: center;
+            color: black; 
+            margin-top: 30px;
         }
     }
     
@@ -39,11 +45,13 @@
     
     .b-contact {
         background-image: url(https://www.pngitem.com/pimgs/m/102-1026439_green-leaves-png-free-image-transparent-background-leaves.png);
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         background-position: center;
+        width: 100%;
         &__box {
-            margin-left: 20%;
-            padding: 24px;
-
+            // margin-left: 20%;
+            padding-top: 50px;
+            text-align: center; 
+            padding-bottom: 20px; 
         }
     }
